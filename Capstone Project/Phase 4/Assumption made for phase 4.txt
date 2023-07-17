@@ -1,0 +1,5 @@
+1] There is no assumption I have made in phase 4.
+2] I have taken only 1 dataset that is 01_district_wise and made a cluster according to what they asked to do.
+3] I have to make clusters of District wise and State wise.
+4] I have also answered the question that they asked. 
+5] And I have also described the project in my own words.
