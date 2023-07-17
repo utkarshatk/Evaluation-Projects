@@ -1,0 +1,10 @@
+1] I have got the population , litercay rate , area of each state for year 2001 from the link 
+	for literate people	
+		https://socialjustice.gov.in/common/76669	
+				
+	to calculate literte people I have use formula 	
+		total population * (literate rate/100)	
+
+2] So i have assume that the data for 2001 is real and for rest of the years from 2002 to 2012 i have created the data from 2001 by doing some addition to as i got the proof that from 2001 to 2012 the population is gradually increased.
+
+3] And i have only take the 01_district_wise excel sheet for analysis as the data present in that excel sheel is more as compared to others
